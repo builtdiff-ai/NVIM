@@ -1,0 +1,13 @@
+# OS metadata
+.DS_Store
+Thumbs.db
+
+# Editor swap/backup files
+*.swp
+*.swo
+*~
+
+# Neovim local/session artifacts
+.netrwhist
+Session.vim
+Sessionx.vim
